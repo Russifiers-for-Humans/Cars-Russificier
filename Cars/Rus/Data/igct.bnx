@@ -1,0 +1,16 @@
+STR_IGCT_WINDOW_TITLE=Тачки
+STR_IGCT_PLAYDISK=Пожалуйста, вставьте игровой диск.
+STR_IGCT_WRONG_OS_PC=Неверная версия ОС.
+STR_IGCT_WRONG_DIRECTX=Вы должны установить DirectX 9.0c перед запуском игры.
+STR_IGCT_FULL_HD=Нет места на жестком диске.\nНеобходимо минимум %d МБ свободного пространства.\nПрограмма завершает работу.
+
+STR_IGCT_MAC_MISSINGDISC=Диск отсутствует
+STR_IGCT_RETRY=Повтор
+STR_IGCT_ABORT=Отмена
+
+STR_IGCT_VIRTUALMEM_MSG=Виртуальная память отключена. Включите ее, пожалуйста, для запуска игры.
+STR_IGCT_VIDEOCARD_ERR=Данная видео-конфигурация не поддерживается.
+STR_IGCT_SOUNDCARD_ERR=Данная конфигурация звуковой системы не поддерживается.
+
+TextLanguage=0
+DialogueLanguage=0
